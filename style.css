@@ -1,0 +1,136 @@
+body, html {
+	height: 100%;
+	background-image: url(img/angryBack.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+  }
+
+
+.up{
+	background: black;
+	color: white;
+}
+
+
+.foot{
+	background: black;
+	position: absolute;
+	margin-top: 45%;
+	margin-left: -1rem;
+	padding: 0% 100% 4% 0%;
+}
+
+#shootBtn{
+	margin-top: 1%;
+	position: absolute;
+	margin-left: 50%;
+	background-color: rgb(248, 117, 23);
+
+}
+
+#blackBird{
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	padding-top: 37%;
+}
+#redBird{
+	width: 10%;
+	height: 10%;
+	padding-top: 37%;
+	position: absolute;
+}
+
+#yellowBird{
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	padding-top: 37%;
+}
+
+
+#pig1{
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	padding-top: 37%;
+	padding-left: 65%;
+}
+
+#pig2{
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	padding-top: 37%;
+	padding-left: 77%;
+}
+#pig3{
+	position: absolute;
+	width: 10%;
+	height: 10%;
+	padding-left: 88%;
+	padding-top: 37%;
+}
+
+
+
+#vida1{
+	position: absolute;
+	padding-left: 65%;
+}
+#vida2{
+	position: absolute;
+	padding-left: 77%;
+}
+#vida3{
+	position: absolute;
+	padding-left: 88%;
+}
+#pnts{
+	position: absolute;
+}
+
+#myPlayerpnt{
+	position: absolute;
+	padding-top: 1.3%;
+	padding-left: 4%;
+}
+#myPlayer2{
+	position: absolute;
+	padding-left: 68%;
+	padding-top: 1.3%;
+}
+#myPlayer3{
+	position: absolute;
+	padding-left: 80%;
+	padding-top: 1.3%;
+}
+#myPlayer4{
+	position: absolute;
+	padding-left: 91%;
+	padding-top: 1.3%;
+}
+
+
+.in{
+	position: absolute;
+}
+
+
+
+#infoBtnRed{
+	position: absolute;
+	background: red;
+	left: 7%;
+}
+#infoBtnBlack{
+	position: absolute;
+	background: black;
+	color: white;
+	left: 8%;
+}
+#infoBtnYellow{
+	position: absolute;
+	background: yellow;
+	left: 15%;
+}
